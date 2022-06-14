@@ -22,4 +22,7 @@ Want to know more about me? [Check out my portfolio.](https://www.joshuasylvanus
 </a>
 <br><br>
 
+Skills
 
+
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
