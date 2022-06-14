@@ -24,7 +24,7 @@ Want to know more about me? [Check out my portfolio.](https://www.joshuasylvanus
 
 Skills
 
-![](https://img.shields.io/badge/?style=for-the-badge&logo=Android&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Android-informational?style=for-the-badge&logo=Android&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=for-the-badge&logo=Kotlin&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-Native-informational?style=for-the-badge&logo=react&logoColor=white&color=4AB197)
