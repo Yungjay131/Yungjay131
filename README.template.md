@@ -14,12 +14,12 @@ Want to know more about me? [Check out my portfolio.](https://www.joshuasylvanus
 <a href="https://github.com/Yungjay131/CryptoCompose">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Yungjay131&repo=CryptoCompose&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<br>
+<br><br>
 
 
 <a href="https://github.com/Yungjay131/Medix">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Yungjay131&repo=Medix&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<br>
+<br><br>
 
 
