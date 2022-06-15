@@ -5,7 +5,7 @@
 
 Hey there 👋
 
-I’m Joshua, an android developer, creative coder and self-proclaimed designer who specializes in mobile app development. I make it my mission to translate user-focused designs into pixel-perfect applications that run blazing fast.
+I’m Joshua, an android developer, creative developer and self-proclaimed designer who specializes in mobile app development. I make it my mission to translate user-focused designs into pixel-perfect world-class applications.
 
 Want to know more about me? [Check out my portfolio.](https://www.joshuasylvanus.dev/)
 
