@@ -30,7 +30,5 @@ Skills
 ![](https://img.shields.io/badge/Code-Groovy-informational?style=for-the-badge&logo=Groovy&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=for-the-badge&logo=TypeScript&logoColor=white&color=ff69b4)
-
-
-![](https://img.shields.io/badge/Code-React-Native-informational?style=for-the-badge&logo=React-Native&logoColor=white&color=red)
+![](https://img.shields.io/badge/Code-React-Native-informational?style=for-the-badge&logo=React&logoColor=white&color=red)
 
