@@ -46,7 +46,7 @@ Want to know more about me? [Check out my portfolio.](https://www.joshuasylvanus
 <br><br>
 
 <a href="https://github.com/Yungjay131/CloudWatch">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Yungjay131&repo=navigator&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&theme=synthwave" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Yungjay131&repo=CloudWatch&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&theme=synthwave" />
 </a>
 <br><br>
 
